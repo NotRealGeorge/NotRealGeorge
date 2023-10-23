@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jorge Sanchez, I'm a beginner/intermediate programmer.
+
 <!--
 **NotRealGeorge/NotRealGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
